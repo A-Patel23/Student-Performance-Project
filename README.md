@@ -8,7 +8,7 @@
 
 This project explores student performance across multiple dimensions, including gender, ethnicity, parental education, and test preparation. By analyzing real-world student exam scores, the project seeks to understand key factors affecting academic outcomes.
 
-Dataset Source: [Students Performance in Exams](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
+**Dataset Source:** [Students Performance in Exams](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
 
 ---
 
@@ -28,11 +28,12 @@ Despite increasing educational initiatives, student performance often varies due
 3. [Data Cleaning](#data-cleaning)
 4. [Exploratory Data Analysis (EDA)](#eda)
 5. [Insights Derived](#insights-derived)
-6. [Suggested Questions](#suggested-questions)
+6. [Suggestions](#suggestions)
 7. [Challenges Faced](#challenges-faced)
 8. [Future Scope](#future-scope)
 9. [Final Outcome](#final-outcome)
-10. [Project Credits](#project-created-by)
+10. [SQL Analysis File](#sql-analysis-file)
+11. [Project Credits](#project-created-by)
 
 ---
 
@@ -120,7 +121,8 @@ This analysis dives into students' exam performance and highlights influential f
 
 ---
 
-## Suggested Questions
+## 💡 Suggestions
+
 1. **Test Prep Works**
    - Students in test prep programs score higher.
    - Expand access or make it mandatory.
@@ -140,6 +142,8 @@ This analysis dives into students' exam performance and highlights influential f
 5. **Grades Cluster at Mid-Level**
    - Most students are in B/C range.
    - Refine curriculum to lift more students to A levels.
+
+---
 
 ## ⚠️ Challenges Faced
 
@@ -165,8 +169,15 @@ This analysis revealed:
 - Data visualization helped stakeholders better understand performance trends and make decisions backed by evidence.
 
 ---
+## 🗂️ SQL Analysis File
 
-### 🔚 Project Created by:
-**Achyut Patel**, **Rohit Sharma**, and **Pranav J**
+You can find the SQL queries and logic used for backend analysis in the following file:
+
+📄 `Sql File/SQL Analysis File.sql`
+
 ---
 
+## 🎓 Project Created By
+
+**Achyut Patel**, **Rohit Sharma**, and **Pranav J**
+---
