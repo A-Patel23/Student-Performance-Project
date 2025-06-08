@@ -12,7 +12,7 @@ Dataset Source: [Students Performance in Exams](https://www.kaggle.com/datasets/
 
 ---
 
-## ❓ Problem Statement
+## 🎯 Problem Statement
 
 Despite increasing educational initiatives, student performance often varies due to demographic and socio-economic factors. The goal is to:
 - Analyze student score trends in math, reading, and writing.
@@ -28,10 +28,11 @@ Despite increasing educational initiatives, student performance often varies due
 3. [Data Cleaning](#data-cleaning)
 4. [Exploratory Data Analysis (EDA)](#eda)
 5. [Insights Derived](#insights-derived)
-6. [Challenges Faced](#challenges-faced)
-7. [Future Scope](#future-scope)
-8. [Final Outcome](#final-outcome)
-9. [Visualizations](#visualizations)
+6. [Suggested Questions](#suggested-questions)
+7. [Challenges Faced](#challenges-faced)
+8. [Future Scope](#future-scope)
+9. [Final Outcome](#final-outcome)
+10. [Project Credits](#project-created-by)
 
 ---
 
@@ -118,6 +119,27 @@ This analysis dives into students' exam performance and highlights influential f
    - Strong correlation between reading & writing.
 
 ---
+
+## Suggested Questions
+1. **Test Prep Works**
+   - Students in test prep programs score higher.
+   - Expand access or make it mandatory.
+
+2. **Gender-Based Gaps**
+   - Girls excel in reading/writing; boys slightly lead in math.
+   - Offer subject-specific support by gender.
+
+3. **Parental Education Impact**
+   - Higher parental education = better student scores.
+   - Provide extra help to students with less-educated parents.
+
+4. **Group Performance Gaps**
+   - Some ethnic groups consistently underperform.
+   - Launch group-specific academic support.
+
+5. **Grades Cluster at Mid-Level**
+   - Most students are in B/C range.
+   - Refine curriculum to lift more students to A levels.
 
 ## ⚠️ Challenges Faced
 
